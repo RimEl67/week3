@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        HTML5 Project
+    </title>
+    <link rel="stylesheet" href="Intro to HTML5/layout.css">
+</head>
+
+<body>
+    <h1>Aliza</h1>
+    <nav>
+        <a href="">One</a>
+        <a href="">Two</a>
+        <a href="">Three</a>
+        <a href="">Four</a>
+    </nav>
+    <h2>Favorite Foods</h2>
+    <ul>
+        <li>Pizzas</li>
+        <li>Pastas</li>
+        <li>Watermelon</li>
+        <li>Cheesecake</li>
+        <li>Chocolates</li>
+    </ul>
+    <h2>Achievements</h2>
+    <p>Progress in this course (100%)<progress value = "100" max = "100"></progress><br>
+    Progress in Specialization Capstone (20%) <progress value="20" max="100"></progress><br>
+    Progress in life goals (40%) <progress value="40" max="100"></progress></p>
+    <h2>More About Me</h2>
+    <details>
+        <summary>My Childhood</summary>
+        I grew up in Badin, a small town of Pakistan. What I liked about Badin was its simplicity and greenery that you rarely find in a city.
+    </details>
+    <footer>
+        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="">
+        This page was created by insert Aliza & Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design.</a>
+    </footer>
+</body>
